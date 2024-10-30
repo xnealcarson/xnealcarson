@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Xavier
-- 👀 I’m interested in 
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning full-stack web development (HTML, CSS, and JavaScript at #100Devs
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I have a 🐈‍⬛ named Jethro
