@@ -8,7 +8,7 @@
   - 🎮 gaming
   - 🎧 enjoying music
   - 🥾 walking & hiking
-- ⚡ Fun fact: I lived in 5 different countries during my childhood: 🇺🇸 🇴🇲 🇲🇽 🇦🇪 🇲🇦
+- ⚡ Fun fact: I spent my childhood living in 5 different countries.
 <!---
 xnealcarson/xnealcarson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
