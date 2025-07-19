@@ -1,16 +1,16 @@
 👋 Hi, I’m Xavier!
   - 🔧 Software Engineer
   - 🌱 Currently working on full-stack web development at #100Devs
-  - 😄 Pronouns: he/him/his
+  - 😄 Pronouns: he/him
 
 Hobbies include:
-  - 🐈‍⬛ Quality time with my cat
   - 📷 Photography & virtual photography
+  - 🥾 Walking & hiking 
   - 🎮 Gaming
   - 🎧 Music
-  - 🥾 Walking & hiking
+  - 🎸 Learning Guitar
+  - 🐈‍⬛ Quality time with my cats
 
-⚡ Fun fact: I spent my childhood living in 5 different countries.
 <!---
 xnealcarson/xnealcarson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
